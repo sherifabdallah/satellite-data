@@ -14,10 +14,6 @@ In this tutorial we will introduce you to satellite image processing in MicMac. 
   2. RPC-bundle adjustement
   3. Surface computation
     
-    3.1. ***Method1***: Matching in object geometry
-
-    3.3. ***Method2***: Matching in image geometry and fusion
-
 ```Python
 Tools = ['Python', 'micmac', 'opencv','matplotlib', 'Colab Notebooks']
 ```
