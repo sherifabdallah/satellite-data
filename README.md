@@ -18,7 +18,6 @@ In this tutorial we will introduce you to satellite image processing in MicMac. 
 
     3.3. ***Method2***: Matching in image geometry and fusion
 
-<br>
 ```Python
 Tools = ['Python', 'micmac', 'opencv','matplotlib', 'Colab Notebooks']
 ```
