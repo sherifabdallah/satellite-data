@@ -47,7 +47,7 @@ $ source venv/bin/activate
 ```sh
 (venv)$ cd satellite-data
 (venv)$ python -m pip install --upgrade pip
-(venv)$ python -m pip install numpy open opencv-python matplotlib
+(venv)$ python -m pip install numpy open opencv-python matplotlib notebook
 ```
 Note the `(venv)` in front of the prompt. This indicates that this terminal
 session operates in a virtual environment set up by `virtualenv`.
