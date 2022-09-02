@@ -2,9 +2,7 @@
 
 # Satellite-image-based surface reconstruction in `MicMac`
 
-## Goal 
-
-In this tutorial we will introduce you to satellite image processing in MicMac. The goal of the exercise is to compute the surface and generate an orthohoto given a set of *modern* satellite images and their RPC geolocalisations. After setting-up MicMac and downloading the dataset, the pipeline is as follows:
+Compute the surface and generate an orthohoto given a set of *modern* satellite images and their RPC geolocalisations. After setting-up MicMac and downloading the dataset, the pipeline is as follows:
   1. Tie-points extraction
   2. RPC-bundle adjustement
   3. Surface computation
