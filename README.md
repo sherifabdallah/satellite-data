@@ -8,7 +8,7 @@ Compute the surface and generate an orthohoto given a set of *modern* satellite 
   3. Surface computation
   
 ## Table of Content
-- [Geekshub](#geekshub)
+- [satellite-data](#satellite-data)
   * [Tools](#tools)
   * [How to run](#how-to-run)
   * [Author](#author)
@@ -58,4 +58,4 @@ session operates in a virtual environment set up by `virtualenv`.
 * And navigate to `http://127.0.0.1:8888`.
 
 ## Author
-[Sherif Abdullah](https://github.com/sherif-abdallah)
+[Sherif Abdullah](https://github.com/sherifabdallah)
